@@ -24,7 +24,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natthakonjj&theme=tokyonight%22 alt="GitHub Stats" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Natthakonjj&theme=tokyonight" alt="GitHub Stats" height="150" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natthakonjj&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
